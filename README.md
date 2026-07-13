@@ -145,7 +145,7 @@ A Flutter application designed to help users build productive habits and monitor
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/yoangeliwon
-- LinkedIn: https://www.linkedin.com/in/your-linkedin/
+- LinkedIn: Yemisrach Habtamu | LinkedIn (https://www.linkedin.com/in/yemisrach-habtamu-/)
 - 📧 Email: yemisrachhabtamu4@gmail.com
 
 ---
