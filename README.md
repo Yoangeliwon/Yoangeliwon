@@ -22,34 +22,45 @@
 - 📍 Ethiopia
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,dotnet,flutter,cs,js,python,git,github,vscode,visualstudio)](https://skillicons.dev)
 
 ## 🛠 Tech Stack
 
 ### Languages
-- C#
-- JavaScript
-- Dart
-- Python
-- Java
-- SQL
-- C++
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
 
 ### Frameworks & Technologies
-- ASP.NET Core MVC
-- MERN Stack
-- Flutter
-- Entity Framework Core
+<p align="center">
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>  
 
 ### Databases
-- SQL Server
-- MongoDB
+<p align="center">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>  
 
 ### Tools
-- Git
-- GitHub
-- Visual Studio
-- VS Code
-- Draw.io
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+</p>
 
 ---
 
@@ -82,8 +93,6 @@ A modern AI-powered mental health platform that connects clients with licensed m
 ### Technologies
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 
@@ -119,11 +128,11 @@ A centralized internship management platform developed to streamline the interns
 - Role-Based Access Control
 
 ### Technologies
-
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server
-
+<p align="center">
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>  
 
 ---
 
@@ -139,10 +148,9 @@ A Flutter application designed to help users build productive habits and monitor
 - Clean User Interface
 
 ### Technologies
-
-- Flutter
-- Dart
-
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>  
 ---
 
 ## 📊 GitHub Stats
