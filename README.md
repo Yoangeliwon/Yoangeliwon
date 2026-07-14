@@ -15,7 +15,7 @@
 - 🎓 Computer Science Graduate
 - 💻 Full-Stack Developer
 - 🌐 Experienced with ASP.NET Core, MERN Stack, and Flutter
-- 🧠 Interested in Artificial Intelligence and Mental Health Technology
+- 🧠 Passionate about AI-powered software solutions
 - 🔐 Currently learning Cybersecurity and Ethical Hacking
 - 📚 Always learning new technologies and best practices
 - 🤝 Open to internships, graduate programs, and software engineering opportunities
@@ -81,12 +81,21 @@ A modern AI-powered mental health platform that connects clients with licensed m
 
 ### Technologies
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Flutter
-- JWT Authentication
+<p align="center">
+
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+
+</p>
 
 **Status:** 🚧 Currently Developing
 
@@ -136,22 +145,35 @@ A Flutter application designed to help users build productive habits and monitor
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yoangeliwon&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoangeliwon&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
 # 🌱 Currently Learning
 
-- Cybersecurity Fundamentals
-- Ethical Hacking
-- Network Security
-
+- 🔐 Cybersecurity Fundamentals
+- 🛡️ Ethical Hacking
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/yoangeliwon
-- LinkedIn: Yemisrach Habtamu | LinkedIn (https://www.linkedin.com/in/yemisrach-habtamu-/)
+- 💻 GitHub: https://github.com/Yoangeliwon
+- 💼 LinkedIn: https://www.linkedin.com/in/yemisrach-habtamu-a24465313/
 - 📧 Email: yemisrachhabtamu4@gmail.com
 
 ---
+
+## 💡 Favorite Quote
+
+> "Technology has the power to improve lives. I strive to build software that creates meaningful impact."
 
 ⭐ Thank you for visiting my profile!
 
